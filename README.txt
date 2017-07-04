@@ -1,7 +1,7 @@
 
 Extracts all the text it can find from a pdf and spell checks words. Particularly good for
-spell-checking things you've built into your doc that may not be spell-checked by the software that
-creates them, such as figures.
+spell-checking things you've built into your doc that may not be spell-checked by the software
+that creates them, such as figures.
 
 Prerequisites:
 aspell
