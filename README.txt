@@ -15,3 +15,6 @@ examples are already there. Feel free to remove them. Don't remove the first lin
 
 If okwords.en.pws exceeds 500 words, you may (but probably won't) need to change the '500' in the
 first line to reflect this.
+
+TODO:
+make this readme .md
